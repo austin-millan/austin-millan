@@ -17,8 +17,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/austinm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="austinm" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=austin-millan&show_icons=true&locale=en&layout=compact&hide=java&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="austin-millan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=austin-millan&layout=compact&show_icons=true&locale=en&count_private=true&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="austin-millan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=austin-millan&show_icons=true&locale=en&layout=compact&hide=java&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="austin-millan" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=austin-millan&layout=compact&show_icons=true&locale=en&count_private=true&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="austin-millan" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austin-millan&label=Profile%20views&color=0e75b6&style=flat" alt="austin-millan" /> </p>
