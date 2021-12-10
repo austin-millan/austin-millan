@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Austin Millan</h1>
+<h1 align="center">Hi, I'm Austin Millan</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=austin-millan" alt="austin-millan" /></a> </p>
 
